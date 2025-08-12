@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h-salah1117
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on Beginer-Frindely Front-End projects
+- 👀 I’m interested in Data Science and ML
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Beginer-Frindely ML projects
 - 📫 you can conatct me on h.salah1711@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm Egyption 
