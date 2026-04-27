@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Beginer-Frindely ML projects
 - 📫 you can conatct me on h.salah1711@gmail.com
-- ⚡ Fun fact: i'm Egyption 
