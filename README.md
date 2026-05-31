@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h-salah1117
+- 👋 Hi, I’m Hazem Salah
 - 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Beginer-Frindely ML projects
