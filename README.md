@@ -23,9 +23,7 @@ A production RAG chatbot that answers Islamic questions from **50,000+ real fatw
 <a href="https://github.com/h-salah1117/Online-Efteely"><img src="https://img.shields.io/badge/Source_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
 <a href="https://www.kaggle.com/datasets/hazemmosalah/50k-islamic-fatwa-q-and-a-dataset-arabic"><img src="https://img.shields.io/badge/Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Dataset on Kaggle"></a>
 
-<!-- Add a screenshot or GIF of Efteely here, for example:
-<img src="assets/efteely-demo.gif" width="720" alt="Efteely answering a question">
--->
+<img src="https://raw.githubusercontent.com/h-salah1117/Online-Efteely/main/assets/demo.gif" width="720" alt="Efteely answering a question with cited sources">
 
 ### More projects
 
