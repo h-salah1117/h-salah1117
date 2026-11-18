@@ -31,9 +31,9 @@ A production RAG chatbot that answers Islamic questions from **50,000+ real fatw
 
 | Project | What it does | Built with |
 |:--|:--|:--|
+| [JobHunter](https://github.com/h-salah1117/JobHunter) | A job-market platform: scrapes live listings, recommends jobs, scores CVs (ATS) and answers career questions with RAG | Flask, ChromaDB, scikit-learn, Docker |
 | [Efteely Offline](https://github.com/h-salah1117/Efteely-Islamic-Chatbot) | The first, offline version of Efteely, running on a local LLM | CAMeL-Lab Arabic BERT, Ollama |
 | [WhatsApp customer-service bot](https://github.com/h-salah1117/AI-customer-support-for-lamsa) 🚧 *In progress* | A bot that will answer a store's customers on WhatsApp: product stock, store policies and orders | Python, Pydantic, pytest |
-| [MAZAG](https://github.com/h-salah1117/MAZAG-movies-recommendation) | A full-stack movie recommender | Node.js, Python, KNN |
 
 ## Tech stack
 
